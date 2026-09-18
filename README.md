@@ -2,8 +2,7 @@
 
 A responsive movie/TV explorer built with React, Tailwind CSS, and the [TVMaze API](https://www.tvmaze.com/api). Browse the full catalogue, search by title, and open a details modal for any title — no API key required.
 
-**Live demo:** (https://foundation-program-assignment-2.vercel.app/)
-
+**Live demo:** ( https://movie-explorerhub.netlify.app/ ) 
 ---
 
 ## Features
